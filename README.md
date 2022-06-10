@@ -1,2 +1,2 @@
 # Jogo-Matem-tico
-Itens básicos do jogo.
+Atividade Final da U3 de LOP - ORIVALDO - JavaScript
